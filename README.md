@@ -16,14 +16,14 @@ I enjoy transforming operational and business data into dashboards and actionabl
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Skills
 
 **Analytics & BI**
 - Power BI
 - SQL
 - Python (pandas)
 
-**Tools**
+**Business & Reporting Tools**
 - Excel
 - Power Query
 - Power Automate
@@ -59,8 +59,6 @@ Projects will be published progressively as they are completed.
 
 ## 📫 Let's Connect
 
-💼 LinkedIn  
-www.linkedin.com/in/ana-milena-gonzalez-doncel
+💼 [LinkedIn](https://www.linkedin.com/in/ana-milena-gonzalez-doncel)
 
-📧 Email  
-amgonzalez.do@gmail.com
+📧 [Email](mailto:amgonzalez.do@gmail.com)
