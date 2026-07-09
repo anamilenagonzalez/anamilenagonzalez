@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Ana 👋
 
-<!--
-**anamilenagonzalez/anamilenagonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineer with a Master's degree in Project Development & Management, specializing in **Business Intelligence** and **Project & Business Analytics**.
 
-Here are some ideas to get you started:
+I enjoy transforming operational and business data into dashboards and actionable insights that support data-driven decision-making and improve business performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I do
+
+- 📊 Business Intelligence
+- 📈 KPI Reporting & Executive Dashboards
+- 📁 Project & Operations Analytics
+- ⚙️ Reporting Automation & Process Improvement
+- 🤝 Business-focused analytics for decision-making
+
+---
+
+## 🛠️ Tech Stack
+
+**Analytics & BI**
+- Power BI
+- SQL
+- Python (pandas)
+
+**Tools**
+- Excel
+- Power Query
+- Power Automate
+- SAP
+- Oracle PBCS
+- Oracle Smart View
+
+---
+
+## 📂 Featured Projects
+
+🚧 **Portfolio currently under development**
+
+I'm currently building a portfolio focused on:
+
+- Executive Business Dashboards
+- Customer Retention & Cohort Analysis
+- Revenue Forecasting & Market Analysis
+- Operations & Project Analytics
+
+Projects will be published progressively as they are completed.
+
+---
+
+## 🌱 Current Focus
+
+- Business Intelligence
+- Data Visualization
+- Dashboard Storytelling
+- Portfolio Development
+
+---
+
+## 📫 Let's Connect
+
+💼 LinkedIn  
+www.linkedin.com/in/ana-milena-gonzalez-doncel
+
+📧 Email  
+amgonzalez.do@gmail.com
