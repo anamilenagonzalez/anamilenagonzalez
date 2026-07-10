@@ -35,25 +35,22 @@ I enjoy transforming operational and business data into dashboards and actionabl
 
 ## 📂 Featured Projects
 
-🚧 **Portfolio currently under development**
+### 🛍️ E-commerce Business Intelligence Solution
 
-I'm currently building a portfolio focused on:
+End-to-end Business Intelligence solution built in Power BI to analyze executive performance, product performance, geographic trends, customer retention, and revenue forecasting.
 
-- Executive Business Dashboards
-- Customer Retention & Cohort Analysis
-- Revenue Forecasting & Market Analysis
-- Operations & Project Analytics
+➡️ **View Project**
+https://github.com/anamilenagonzalez/ecommerce-business-intelligence-dashboard
 
-Projects will be published progressively as they are completed.
+*(More projects coming soon...)*
 
 ---
 
-## 🌱 Current Focus
+## 🌱 Currently Working On
 
-- Business Intelligence
-- Data Visualization
-- Dashboard Storytelling
-- Portfolio Development
+- Consultant Capability Dashboard
+- Client Engagement Analytics
+- Power BI Portfolio Development
 
 ---
 
